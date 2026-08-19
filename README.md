@@ -28,16 +28,16 @@ Este é um projeto pessoal de aprendizado e portfólio, com foco inicial no dese
 
 ## Tecnologias
 
-| Tecnologia | Papel no projeto |
-| --- | --- |
-| Next.js | Framework da aplicação, responsável por rotas, layouts e renderização |
-| React | Construção dos componentes e das interfaces interativas |
-| TypeScript | Tipagem dos dados, componentes e regras da aplicação |
-| Tailwind CSS | Estilização e criação dos layouts responsivos |
-| shadcn/ui | Base de componentes de interface acessíveis e personalizáveis |
-| Zod | Validação dos dados, principalmente na importação de arquivos JSON |
-| pdf-lib | Leitura, preenchimento e exportação da ficha oficial em PDF |
-| Vercel | Hospedagem, previews e publicação da aplicação |
+| Tecnologia   | Papel no projeto                                                      |
+| ------------ | --------------------------------------------------------------------- |
+| Next.js      | Framework da aplicação, responsável por rotas, layouts e renderização |
+| React        | Construção dos componentes e das interfaces interativas               |
+| TypeScript   | Tipagem dos dados, componentes e regras da aplicação                  |
+| Tailwind CSS | Estilização e criação dos layouts responsivos                         |
+| shadcn/ui    | Base de componentes de interface acessíveis e personalizáveis         |
+| Zod          | Validação dos dados, principalmente na importação de arquivos JSON    |
+| pdf-lib      | Leitura, preenchimento e exportação da ficha oficial em PDF           |
+| Vercel       | Hospedagem, previews e publicação da aplicação                        |
 
 ## Pré-requisitos
 
@@ -115,7 +115,7 @@ Principais funcionalidades:
 - explicar o propósito de cada ferramenta;
 - direcionar o usuário para o gerador escolhido.
 
-### `/tools/character-generator` — Gerador de Personagens
+### `/tools/character-generator` — Gerador de Personas
 
 Gera personagens jogadores de forma aleatória ou orientada por parâmetros.
 
